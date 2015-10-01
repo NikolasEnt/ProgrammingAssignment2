@@ -1,9 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
-m
+## Create matrix interface, instantiating getters & setters
 makeCacheMatrix <- function(X = matrix()) {
   p <- NULL
   set <- function(y) {
